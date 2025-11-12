@@ -1,7 +1,10 @@
 import random
+
+print("welcome to Rock-Paper-Scissor!") 
+
 computer_options = ["rock", "paper", "scissors"]
 print(f"Computer chose: {computer_options[random.randint(0,2)]}")
-print("welcome to Rock-Paper-Scissor!") 
+
 
 
 
